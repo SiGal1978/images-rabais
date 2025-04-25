@@ -1,4 +1,4 @@
-window.imageDatabase = {
+{
   "adoni": {
     id: "22902015",
     filename: "Framboises-170-g.jpg",
@@ -1648,4 +1648,5 @@ window.imageDatabase = {
     filename: "Veau-hache-maigre.jpg",
     title: "Veau hache maigre",
     url: "https://s3.ca-central-1.amazonaws.com/espresso-prod-images/Veau-hache-maigre.jpg"
-};
+  }
+}
