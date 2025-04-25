@@ -1,4 +1,4 @@
-  {
+window.imageDatabase = {
   "adoni": {
     id: "22902015",
     filename: "Framboises-170-g.jpg",
